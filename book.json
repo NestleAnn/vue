@@ -1,0 +1,184 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Consequuntur impedit accusantium ipsam voluptates minus facere consequatur.",
+        "author": "Mckenna Waelchi",
+        "description": "Saepe ullam nemo voluptas quasi. Fugit aut tempora autem. Quia ea inventore accusamus nulla labore magnam fugit. Repudiandae maiores illum harum rerum.",
+        "rental_fee": "36.60",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 2,
+        "title": "Natus et excepturi molestiae corporis.",
+        "author": "Kathryn Rempel",
+        "description": "Tenetur ad dolores itaque sit nostrum fugit. Qui dolor labore et praesentium molestiae autem. Unde perferendis et id sed ipsa nostrum.",
+        "rental_fee": "96.84",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 3,
+        "title": "Est id animi eius labore cupiditate mollitia.",
+        "author": "Eulalia Hermann",
+        "description": "Ut ut totam harum possimus molestiae deleniti. Maiores molestiae eum labore voluptatibus sunt quo assumenda. Qui nesciunt earum ullam sit impedit. Exercitationem totam beatae inventore fugiat ullam odit.",
+        "rental_fee": "15.85",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 4,
+        "title": "Et dolore minus sint nam qui debitis quis.",
+        "author": "Prof. Torrance Frami",
+        "description": "Et exercitationem voluptatibus iusto qui modi. Porro doloribus dolore quis sed quia et repellendus. Ut laborum non non quod. Dolorem animi similique eum. Accusamus non libero ut ea.",
+        "rental_fee": "10.08",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 5,
+        "title": "Non repellendus fuga eum harum ipsa.",
+        "author": "Estevan Hessel",
+        "description": "Repellendus omnis sed aut culpa. Et velit a animi assumenda illo. Aut impedit eius quia voluptatem. Et qui veniam totam.",
+        "rental_fee": "67.07",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 6,
+        "title": "Provident cupiditate corrupti dolor quo voluptatem ratione.",
+        "author": "Braxton Tromp",
+        "description": "Ipsum porro itaque soluta aut culpa pariatur fugit et. Quidem ullam laudantium quisquam autem nostrum ex numquam. Beatae odit voluptatem quia officia quia ut.",
+        "rental_fee": "71.99",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 7,
+        "title": "Accusantium adipisci voluptate sit sed vel nostrum minima incidunt.",
+        "author": "Olen Reichert",
+        "description": "Error vel qui sint sed. Doloribus et est ipsa voluptatibus asperiores. Dolores culpa et tenetur omnis voluptate. Rerum atque adipisci et qui quos dolore eveniet.",
+        "rental_fee": "40.09",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 8,
+        "title": "Dolorem quisquam temporibus quo blanditiis aspernatur molestiae.",
+        "author": "Armand Smitham",
+        "description": "Qui veritatis alias corrupti. Eum et et dicta qui saepe id ratione. Odio doloremque tenetur qui dolor cupiditate et.",
+        "rental_fee": "23.06",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 9,
+        "title": "Sint magnam debitis odio pariatur asperiores.",
+        "author": "Brent Pagac",
+        "description": "Dolor debitis corporis qui impedit dolore eum. Aut sapiente ab id expedita aut est. Provident quibusdam esse voluptas voluptates eos.",
+        "rental_fee": "49.08",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 10,
+        "title": "Temporibus ratione labore et est nam.",
+        "author": "Miss Jacquelyn Kshlerin",
+        "description": "Ratione fugit quisquam consequatur. Eum ut dicta omnis mollitia velit ea. Rerum dignissimos dolor maxime fuga tempora molestiae nulla.",
+        "rental_fee": "33.96",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 11,
+        "title": "Vero assumenda dignissimos doloremque praesentium atque.",
+        "author": "Devonte Deckow",
+        "description": "Modi ea sint quae enim maxime magni in. Consequatur eum sit porro odio illo. Architecto velit harum sit.",
+        "rental_fee": "50.77",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 12,
+        "title": "Temporibus consequuntur aut voluptatibus sequi.",
+        "author": "Ms. Sally Ledner IV",
+        "description": "Enim totam sed recusandae nihil vel. Qui voluptatibus vel assumenda itaque. Officia nihil eos alias magni nihil incidunt. Quae quo dolores laboriosam molestias.",
+        "rental_fee": "54.80",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 13,
+        "title": "Vitae ab modi sed sint perferendis.",
+        "author": "Jason Kris",
+        "description": "Vel accusamus eum quod. Voluptatum consequatur natus expedita debitis qui placeat dicta quaerat. Minus dolores natus culpa blanditiis.",
+        "rental_fee": "72.52",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 14,
+        "title": "Delectus ut sint error.",
+        "author": "Ruby Lakin",
+        "description": "Id iure cupiditate magni. Dolores veniam veritatis enim dicta accusamus. Suscipit eligendi est velit labore.",
+        "rental_fee": "98.97",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 15,
+        "title": "Qui ullam qui cum iure et iusto aliquid.",
+        "author": "Fleta Schiller",
+        "description": "Qui blanditiis explicabo autem at. Autem esse ut quia iste beatae aliquam corporis. Unde voluptatem ex sed totam qui odit assumenda numquam. Debitis sint fuga et omnis a voluptates nulla.",
+        "rental_fee": "19.01",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 16,
+        "title": "Et quia fugit commodi adipisci assumenda odio suscipit.",
+        "author": "Tyrique Ledner",
+        "description": "Harum reiciendis doloribus soluta quis doloribus dolor et. Hic voluptatem ipsum a aspernatur rem hic. Vel et porro voluptatem architecto voluptas doloribus. Et quis repellat voluptatem aut aspernatur. Et in quis exercitationem.",
+        "rental_fee": "64.28",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 17,
+        "title": "Omnis libero quia quo ratione illum excepturi facilis.",
+        "author": "Dr. Felton Armstrong I",
+        "description": "Dolor qui sed qui distinctio labore aut cupiditate voluptatibus. Rerum voluptatem distinctio aut qui a soluta.",
+        "rental_fee": "42.41",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 18,
+        "title": "Consectetur cupiditate perferendis sit sed eaque ut autem veritatis.",
+        "author": "Mallory Schaefer",
+        "description": "Molestiae unde voluptatem accusantium quo exercitationem. Quod accusamus quo ipsa odio veniam. Totam ratione molestiae numquam.",
+        "rental_fee": "63.13",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 19,
+        "title": "Qui optio sequi dignissimos aut facere.",
+        "author": "Dora McKenzie",
+        "description": "Molestias quia laborum soluta aut. Dolor libero eum earum. Voluptatem distinctio error rerum dolore dolore. Et quo facilis optio.",
+        "rental_fee": "65.56",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      },
+      {
+        "id": 20,
+        "title": "Consequatur mollitia autem totam impedit dolorem ratione.",
+        "author": "Austen Cassin",
+        "description": "Nihil laboriosam libero et non illum earum omnis. Ipsa odio dolor in repellat. Commodi consequatur sed consequuntur delectus distinctio. Quod aut consequatur et et doloremque.",
+        "rental_fee": "83.79",
+        "created_at": "2023-12-21T07:03:30.000000Z",
+        "updated_at": "2023-12-21T07:03:30.000000Z"
+      }
+    ]
+  }

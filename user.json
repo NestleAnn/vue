@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Adaline Kautzer",
+      "email": "hassie.nicolas@example.net",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 2,
+      "name": "Alfredo Grant",
+      "email": "keven33@example.net",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 3,
+      "name": "Jaleel Kling",
+      "email": "viola.olson@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 4,
+      "name": "Litzy Satterfield",
+      "email": "barrows.shayna@example.org",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 5,
+      "name": "Chelsie Wintheiser",
+      "email": "demetris01@example.net",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Betsy Volkman",
+      "email": "smith.angelita@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 7,
+      "name": "Claudia Abshire",
+      "email": "allison.schiller@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 8,
+      "name": "Cletus Keebler",
+      "email": "ctoy@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 9,
+      "name": "Mr. Leonard Hane",
+      "email": "ortiz.zella@example.org",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 10,
+      "name": "Ms. Marcia Cummerata IV",
+      "email": "oliver.smith@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 11,
+      "name": "Matilda Considine",
+      "email": "dmcclure@example.org",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 12,
+      "name": "Wilson Ritchie",
+      "email": "inikolaus@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 13,
+      "name": "Krista Veum",
+      "email": "desmond.mcglynn@example.org",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 14,
+      "name": "Theresa Strosin",
+      "email": "mmills@example.org",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 15,
+      "name": "Mrs. Katarina Sanford III",
+      "email": "kaden43@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 16,
+      "name": "Rigoberto Cruickshank",
+      "email": "nolan.guadalupe@example.net",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 17,
+      "name": "Mr. Stephan Huels III",
+      "email": "caterina.vandervort@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 18,
+      "name": "Alayna Stiedemann",
+      "email": "njerde@example.net",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 19,
+      "name": "Annetta Rath PhD",
+      "email": "kadin.ondricka@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    },
+    {
+      "id": 20,
+      "name": "Curtis Beatty",
+      "email": "marlene.beatty@example.com",
+      "created_at": "2023-12-21T07:03:30.000000Z",
+      "updated_at": "2023-12-21T07:03:30.000000Z"
+    }
+]
